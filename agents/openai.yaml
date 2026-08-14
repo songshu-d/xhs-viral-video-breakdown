@@ -1,0 +1,6 @@
+interface:
+  display_name: "短视频动效与剪辑拆解"
+  short_description: "逐秒拆解镜头、字幕、动效、节奏并生成剪辑操作稿"
+  default_prompt: "Use $xhs-viral-video-breakdown to analyze this short video and produce an evidence-based editing operation script."
+policy:
+  allow_implicit_invocation: true

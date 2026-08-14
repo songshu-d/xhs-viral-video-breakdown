@@ -1,2 +1,7 @@
 # xhs-viral-video-breakdown
-Break down a video from Xiaohongshu (RedNote), including the script, motion effects, and production workflow. After deconstruction, the workflow can be extracted and reused in your own short-form video productions.
+
+Evidence-based visual editing breakdowns for Xiaohongshu and similar short videos. The skill analyzes picture edits, motion design, captions, pacing, screen recordings, PIP, sound rhythm, shot changes, and NLE track construction, then produces an editor-ready operation script.
+
+It also supports visual-only breakdowns that intentionally exclude copywriting analysis.
+
+Install the repository as a Codex skill or copy its contents into a local skill folder named `xhs-viral-video-breakdown`.
